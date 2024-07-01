@@ -415,6 +415,27 @@ export default {
     ,fail:'Fail'
     ,info:'Note: <br> Uploaded audio must be between 6 seconds and 60 seconds in duration.'
   }
+   ,video: {
+    menu: "Videos",
+    menuinfo: "Luma and other video generate",
+    descpls: "Video generate description",
+    lumaabout: "About Luma",
+    lumaserver: "Luma API endpoint",
+    setOpenKeyPlaceholder: "Key for Luma API, optional",
+    generate: "Generate video",
+    nodata: "No available videos, please generate first!",
+    selectimg: "Select image",
+    clear: "Clear",
+    plsInput: "Please input content!",
+    submitSuccess: "Submitted successfully!",
+    process: "Video generating...",
+    repeat: "Get again",
+    pending: 'Status: Queued',
+    processing: 'Status: Processing',
+    download: 'Download',
+    extend: 'Extend'
+
+  }
 
 
 
